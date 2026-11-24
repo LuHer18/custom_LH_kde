@@ -1,0 +1,15 @@
+[PlasmaViews][Panel 29]
+floating=0
+panelOpacity=2
+
+[PlasmaViews][Panel 29][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 3]
+floating=1
+panelLengthMode=1
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=48
