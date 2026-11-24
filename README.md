@@ -5,7 +5,7 @@ This is a curated snapshot from Fedora KDE (Plasma 6.8.3), with Krohnkite 0.9.11
 | File | What it preserves |
 | --- | --- |
 | [`kde/kwinrc`](kde/kwinrc) | Virtual desktop count and rows, window decoration, and Krohnkite enablement, gaps and borders. KWin had no window rules to export. |
-| [`kde/shortcuts.tsv`](kde/shortcuts.tsv) | Krohnkite bindings and selected custom KWin, Plasma and Spectacle shortcuts. `none` means disabled; ` \| ` separates alternative bindings. |
+| [`kde/shortcuts.tsv`](kde/shortcuts.tsv) | Krohnkite bindings and selected custom KWin and Plasma shortcuts. `none` means disabled; ` \| ` separates alternative bindings. |
 | [`kde/kdeglobals`](kde/kdeglobals) | Plasma look and feel, icon theme, color scheme and palette. |
 | [`kde/panels/`](kde/panels/) | The two panels' placement, widget IDs and order, and selected panel and widget options. |
 | [`obs/recording/basic.ini`](obs/recording/basic.ini) | Selected recording profile options, including output mode, format, encoders, audio tracks, video size and frame rate. |
